@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "Respire",
+    "slug": "Respire",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "respire",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": false,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.priyanshsingh07.Respire"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "bb4ada5a-3257-4204-aa07-8cc1f522e2c0"
+      }
+    }
+  }
+}
